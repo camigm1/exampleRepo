@@ -1,1 +1,5 @@
 This is the first example push to github. More changes have been made
+
+
+
+These are the second changes i'm adding to this text file for my assignment. 
